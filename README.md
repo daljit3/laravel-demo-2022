@@ -34,4 +34,6 @@ A small demo of scraping data from a web page, or adding via uploading a CSV, an
 php artisan migrate
 ```
 
-3. Load data using Fetch or by uploading a CSV.
+3. Go to "/admin" URL to load data using Fetch or by uploading a CSV.
+
+4. Go to "/dashboard" to view the front-end.
